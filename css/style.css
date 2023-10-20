@@ -119,7 +119,7 @@ body{
     animation: rotate 10s linear infinite; /* Xoay trong 10 giây vô hạn lần */
     width: 100px; /* Kích thước của hình hoa */
     height: 100px;
-    background: url('/img/flower_white.png') no-repeat center center; /* Đặt hình ảnh hoa làm nền */
+    background: url('/img/traitim.png') no-repeat center center; /* Đặt hình ảnh hoa làm nền */
     background-size: cover; /* Đảm bảo hình ảnh hoa nền bao phủ hoàn toàn */
 }
 .flower {
